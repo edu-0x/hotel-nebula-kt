@@ -11,21 +11,21 @@ O projeto consiste na análise e evolução de um código base previamente forne
 - 🔍 Pesquisar hóspedes
 - 📋 Listar hóspedes
 - ❌ Remover hóspedes
-
+---
 ### 📁 Estruturasrc/
 ├── Hotel.kt  
 ├── CadastrarHospedes.kt  
 └── Main.kt
-
+---
 ### ▶️ Execução
   
 Execute o arquivo:  
 `Hotel.kt`
-
+---
 ### 💻 Tecnologias
 - Kotlin
 - IntelliJ IDEA
-
+---
 ### 📚 Objetivo
   
 Praticar e consolidar conceitos como:
